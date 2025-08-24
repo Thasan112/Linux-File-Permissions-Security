@@ -29,4 +29,4 @@ project_m.txt — restricted group access
 
 # 📜 Conclusion
 
-This project demonstrates how proper access control ensures files are only available to the intended users, which is a fundamental aspect of cybersecurity.
+This project demonstrates how proper access control ensures files are only available to the intended users only.
