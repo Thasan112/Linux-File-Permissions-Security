@@ -23,8 +23,11 @@ project_m.txt — restricted group access
 
 # Steps
 Task 1. Check file and directory details
+
 Task 2. Change file permissions
+
 Task 3. Change file permissions on a hidden file
+
 Task 4. Change directory permissions
 
 <img width="940" height="846" alt="image" src="https://github.com/user-attachments/assets/f734ea62-011e-41d3-9672-d70e51100ff7" />
